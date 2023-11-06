@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+button {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: skyblue;
+}
+
+a {
+    color: black;
+}
